@@ -1,41 +1,64 @@
-# Welcome to My GitHub Portfolio! 🚀
+<h1 align="center">Welcome to My GitHub Portfolio! 🚀</h1>
 
-Hey there! Welcome to my GitHub page where I showcase my skills and projects as a junior web developer. I'm excited to share with you my expertise in front-end technologies like HTML, CSS, JavaScript, and React, as well as my back-end skills in Node.js, Express, and MySQL. On top of that, I also dabble in design tools like Photoshop, Maya, 3DS Max, Figma, and Procreate. So, let's dive in and explore what I've got! 💪
+<p align="center">
+  <a href="https://www.linkedin.com/in/michael-mc-grath/"><img src="https://img.shields.io/badge/LinkedIn-%40michael--mc--grath-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
+</p>
 
-## About Me 👩‍💻
-I'm a passionate web developer who loves creating user-friendly and visually stunning web experiences. This portfolio is my way of demonstrating what I can do with code. Whether it's crafting sleek front-end interfaces or building robust back-end functionality, I'm always up for the challenge.
+<p align="justify">Hey there! Welcome to my GitHub page where I showcase my skills and projects as a junior web developer. I'm excited to share with you my expertise in front-end technologies like HTML, CSS, JavaScript, and React, as well as my back-end skills in Node.js, Express, and MySQL. On top of that, I also dabble in design tools like Photoshop, Maya, 3DS Max, Figma, and Procreate. So, let's dive in and explore what I've got! 💪</p>
 
-## Skills at a Glance 🔍
-Here are the skills I bring to the table:
+<h2 align="center">About Me 👩‍💻</h2>
 
-### Front-end
-- HTML: Crafting semantic markup for awesome web pages. 🌐
-- CSS: Styling and layout to make things look fabulous. 💅
-- JavaScript: Adding interactivity and life to websites. ✨
-- React: Building reusable and scalable user interfaces. ⚛️
+<p align="justify">I'm a passionate web developer who loves creating user-friendly and visually stunning web experiences. This portfolio is my way of demonstrating what I can do with code. Whether it's crafting sleek front-end interfaces or building robust back-end functionality, I'm always up for the challenge.</p>
 
-### Back-end
-- Node.js: The JavaScript runtime that powers server-side magic. 🖥️
-- Express: A nifty web application framework for Node.js. 🚂
-- MySQL: Taming relational databases like a pro. 🗃️
+<h2 align="center">Skills at a Glance 🔍</h2>
 
-### Git/GitHub
-- Version control using Git: Keeping things organized and efficient. 🗂️
-- GitHub: Hosting my code repositories and collaborating with fellow developers. 🐙
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML-orange" alt="HTML">
+  <img src="https://img.shields.io/badge/-CSS-blueviolet" alt="CSS">
+  <img src="https://img.shields.io/badge/-JavaScript-yellow" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-React-blue" alt="React">
+  <img src="https://img.shields.io/badge/-Node.js-green" alt="Node.js">
+  <img src="https://img.shields.io/badge/-Express-black" alt="Express">
+  <img src="https://img.shields.io/badge/-MySQL-blue" alt="MySQL">
+  <img src="https://img.shields.io/badge/-Figma-purple" alt="Figma">
+</p>
 
-### Design Tools
-- Photoshop: Sprucing up images and doing graphic design. 🎨
-- Maya: Creating mind-blowing 3D models, animations, and renderings. 🌟
-- 3DS Max: Another fantastic tool for 3D modeling, animation, and rendering. 💫
-- Figma: A collaborative design tool for creating stunning interfaces. 🎭
-- Procreate: My go-to for digital drawing and painting, resulting in awesome illustrations. 🖌️
+<p align="center">Front-end: HTML, CSS, JavaScript, React</p>
+<p align="center">Back-end: Node.js, Express, MySQL</p>
+<p align="center">Git/GitHub: Version control using Git, GitHub</p>
+<p align="center">Design Tools: Photoshop, Maya, 3DS Max, Figma, Procreate</p>
 
-## Let's Connect! 🤝
-If you have any questions, suggestions, or opportunities you'd like to discuss, I'd love to hear from you! Feel free to reach out through any of the following channels:
+<h2 align="center">Projects I'm Proud Of 🏆</h2>
 
-- LinkedIn: [Michael McGrath]([https://www.linkedin.com/in/yourname](https://www.linkedin.com/in/michael-mc-grath/)) 💼
+1. Project Name: [Quiz Time](https://github.com/mcgrathmichael/Projet-1-Quiz)
+   - Description: A quiz game to test your knowledge on coding with JS/HTML/CSS set in Space 🚀🌟
+   - Technologies Used: HTML, CSS, JavaScript
 
-I'm always open to collaboration, freelance projects, or exciting employment opportunities.
+2. Project Name: [Memory Mashup](https://github.com/mcgrathmichael/Project-2-)
+   - Description: A memory card game - test your memory using cards taken from an API of Disney's and Zelda's universes💥
+   - Technologies Used: React.js, Express, Node.js, HTML, CSS
+
+<h2 align="center">Top Programming Languages 🔥</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcgrathmichael&layout=compact&langs_count=6" alt="Top Languages">
+</p>
+
+<h2 align="center">Let's Connect! 🤝</h2>
+
+<p align="center">If you have any questions, suggestions, or opportunities you'd like to discuss, I'd love to hear from you! Feel free to reach out:</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/michael-mc-grath/"><img src="linkedin.gif" alt="LinkedIn"></a>
+</p>
+
+<p align="center">I'm always open to collaboration, freelance projects, or exciting employment opportunities.</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" alt="Coding GIF">
+</p>
+
+
 
 <!---
 mcgrathmichael/mcgrathmichael is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
