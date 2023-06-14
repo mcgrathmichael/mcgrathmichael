@@ -30,7 +30,7 @@
 
 <h2 align="center">Projects I'm Proud Of 🏆</h2>
 
-1. Project Name: [Quiz Time](https://github.com/mcgrathmichael/Projet-1-Quiz)
+1. Project Name: [Quiz Time](https://mcgrathmichael.github.io/projects/Quiz/)
    - Description: A quiz game to test your knowledge on coding with JS/HTML/CSS set in Space 🚀🌟
    - Technologies Used: HTML, CSS, JavaScript
 
