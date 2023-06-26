@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/michael-mc-grath/"><img src="https://img.shields.io/badge/LinkedIn-%40michael--mc--grath-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
-<p align="justify">Hey there! Welcome to my GitHub page where I showcase my skills and projects as a junior web developer. I'm excited to share with you my expertise in front-end technologies like HTML, CSS, JavaScript, and React, as well as my back-end skills in Node.js, Express, and MySQL. On top of that, I also dabble in design tools like Photoshop, Maya, 3DS Max, Figma, and Procreate. So, let's dive in and explore what I've got! 💪</p>
+<p align="justify">Hey there! Welcome to my GitHub page where I showcase my skills and projects as a junior web developer. You can view my personal site <a href="https://michaelmcgrath.fr">🌟here🌟</a>. I'm excited to share with you my expertise in front-end technologies like HTML, CSS, JavaScript, and React, as well as my back-end skills in Node.js, Express, and MySQL. On top of that, I also dabble in design tools like Photoshop, Maya, 3DS Max, Figma, and Procreate. So, let's dive in and explore what I've got! 💪</p>
 
 <h2 align="center">About Me 👩‍💻</h2>
 
@@ -30,7 +30,7 @@
 
 <h2 align="center">Projects I'm Proud Of 🏆</h2>
 
-1. Project Name: [Quiz Time](https://mcgrathmichael.github.io/projects/Quiz/)
+1. Project Name: [Quiz Time]([https://mcgrathmichael.github.io/projects/Quiz/](https://quiz.michaelmcgrath.fr/))
    - Description: A quiz game to test your knowledge on coding with JS/HTML/CSS set in Space 🚀🌟
    - Technologies Used: HTML, CSS, JavaScript
 
